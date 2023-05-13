@@ -8,5 +8,7 @@ G
 P
 X
 Y
+Z
+L
 
 N
